@@ -2,11 +2,11 @@
 
 En este repositorio están las plantillas para el Rday Medellín 2019. Hay tres formas de acceder a las plantillas:
 
-1. Descargando el repositorio en zIP.
-2. Clonando el repositorio.
+1. **Clonando** el repositorio.
+2. **Descargando** el repositorio en zIP.
 3. Descargando archivo por archivo.
 
-Use la forma con la cual se sienta más cómodo.
+Use la forma con la cual se sienta más cómodo. Abajo una figura ilustrativa del botón que sirve para clonar o descargar el repositorio.
 
-![Rday logo](xxximagenes/logo.png)
+![Figura 1: Ilustración del botón para clonar o descargar.](xxximagenes/ilustracion.png)
 
