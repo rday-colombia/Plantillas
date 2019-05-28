@@ -10,6 +10,3 @@ Use la forma con la cual se sienta más cómodo.
 
 ![Rday logo](xxximagenes/logo.png)
 
-<center>
-<img src="xxximagenes/logo.png" alt="poster" width="350" height="350">
-</center>
