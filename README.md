@@ -8,5 +8,5 @@ En este repositorio están las plantillas para el Rday Medellín 2019. Hay tres 
 
 Use la forma con la cual se sienta más cómodo. Abajo una figura ilustrativa del botón que sirve para clonar o descargar el repositorio.
 
-![Figura 1: Para clonar o descargar.](xxximagenes/ilustracion.png)
+![](xxximagenes/ilustracion.png)
 
