@@ -95,14 +95,14 @@ Toda figura debe ir centrada y el título debe ir en la parte inferior. \newline
 
 Las figuras se pueden realizar con R. A continuación se muestran una figura creada dentro de este mismo archivo.
 
-```{r my_hist, echo=FALSE, fig.cap="Histograma de valores simulados de una N(0, 1)", fig.width=5, fig.height=3}
+```{r mifig1, echo=FALSE, fig.cap="Histograma de valores simulados de una N(0, 1)", fig.width=5, fig.height=4}
 hist(rnorm(100), main='No colocar el titulo aqui, colocarlo abajo',
      col='deepskyblue3', las=1)
 ```
 
-Otra forma de incluir figuras es importándolas. A continuación un ejemplo.
+Otra forma de incluir figuras es importándolas. A continuación un ejemplo de como incluir la Figura \ref{fig:mifig2}. La Figura \ref{fig:mifig2} se puede referenciar escribiendo `\ref{fig:mifig2}` dentro de comillas sencillas. 
 
-```{r inst2, echo=F, fig.cap='Diagrama de dispersion hecho manualmente.', out.width = '50%', fig.align='center'}
+```{r mifig2, echo=FALSE, fig.cap='Diagrama de dispersion hecho manualmente.', out.width = '50%', fig.align='center'}
 knitr::include_graphics("byhand.png")
 ```
 
