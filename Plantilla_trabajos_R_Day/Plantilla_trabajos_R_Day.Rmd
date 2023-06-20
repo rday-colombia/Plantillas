@@ -12,7 +12,7 @@ author:
   affiliation: Universidad Nacional de Colombia - sede Medellín
 - name: Pedro Pérez
   affiliation: Universidad de Antioquia
-thanks: "**Autor de contacto**: maria_gomez@unal.edu.co."
+thanks: "**Autor de contacto**: mariagomez@unal.edu.co."
 abstract: "__Resumen__: En este documento se dan las instrucciones de presentación de trabajos para el Rday Medellín 2019. Este resumen debe contener i) el objetivo del trabajo; ii) el diseño metodológico usado en el trabajo; iii) hallazgos o principales resultados encontrados; y iv) las implicaciones prácticas. El resumen del trabajo debe tener máximo 250 palabras."
 keywords: "pandoc, r markdown, knitr"
 date: "`r format(Sys.time(), '%B %d, %Y')`"
